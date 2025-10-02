@@ -10,6 +10,7 @@ public class PlayerStats : MonoBehaviour
     public int agility = 10;
     public int intelligence = 10;
     public int stamina = 10;
+    public int speed = 15;
     public int luck = 5;
     public int gold = 0;
     public int inventorySize = 20;
